@@ -1,0 +1,19 @@
+.title {
+    text-align: center;
+    margin-top: 55px;
+    font-size: 20px;
+    color: #1e58ff;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 60%;
+    align-items: center;
+
+
+    div {
+        width: 15%;
+    }
+}
